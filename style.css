@@ -6,6 +6,12 @@
 
 #canvas {
     /* 跟屏幕一样高 */
-    height: 100vh;
-    border: 1px solid red;
+    /* height: 100vh; */
+    /* 跟屏幕一样宽 */
+    /* width: 100vw; */
+    /* border: 1px solid red; */
+    /* canvas默认是inline元素 */
+    /* display: block; */
+
+    display: block;
 }
