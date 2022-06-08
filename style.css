@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    overflow: hidden;
+}
+
 #canvas {
     /* 跟屏幕一样高 */
     /* height: 100vh; */
